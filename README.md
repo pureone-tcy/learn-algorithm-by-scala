@@ -1,1 +1,3 @@
-# scala-exercise 
+# learn-algorithm-by-scala
+- [FizzBuzz](#)
+- [hoge](#)
